@@ -58,7 +58,7 @@ export default function App() {
     const fullLetter = `
 To Zahra,
 
-Aku tahu akhir-akhir ini kamu capek banget. Belajar terus sambil ngadepin takut dan overthinking itu hal yang gak mudah. Tapi aku mau kamu ingat satu hal, aku lihat seberapa kuat dan konsistennya kamu sampai sejauh ini, dan aku bangga banget sama kamu.
+Aku tahu akhir-akhir ini kamu capek banget. Keeping up with your studies while dealing with fear and overthinking isn’t easy. But I want you to remember one thing: I’ve seen how strong and consistent you’ve been so far, and I’m so proud of you.
 
 Jangan biarin progress atau nilai orang lain bikin kamu goyah. Ini perjalanan kamu, mimpi kamu, dan langkah kamu sendiri. Fokus sama diri kamu, percaya sama semua usaha yang udah kamu kasih.
 
