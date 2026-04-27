@@ -435,7 +435,7 @@ Love, me 🐨
                     <textarea
                       value={feedback}
                       onChange={(e) => setFeedback(e.target.value)}
-                      placeholder="Kalau kamu ada yang mau di sampaikan, perasaan kamu, atau ide setalah utbk, tulis di sini dan klik tombol send nya yak!  "
+                      placeholder="Kalau kamu ada yang mau di sampaikan, tulis di sini dan klik tombol send nya yak!  "
                       style={{
                         width: "100%",
                         marginTop: "18px",
